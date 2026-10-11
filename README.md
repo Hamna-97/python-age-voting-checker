@@ -1,35 +1,36 @@
-**Python Age Voting Eligibilty Checker**
+# Voting Eligibility Checker:
 
-My first Python project as a BSCS student.
+My first Python project as a BSCS student, created while learning Python programming.
 
-About the Project:
+## About the Project:
 
-This is a simple Python program that asks the user for their name and age, then checks whether they are eligible to vote based on an age limit of 18.
+The Voting Eligibility Checker is a simple Python program that asks the user for their name and age. It checks whether the user meets the minimum voting age of 18 and displays an appropriate message.
 
-Python Concepts Practised:
+## Features:
 
-input() for user input
+- Takes the user's name as input.
+- Takes the user's age as input.
+- Checks voting eligibility using an `if-else` statement.
+- Displays a personalised result using an f-string.
 
-Variables
+## Python Concepts Practised:
 
-int() for converting age to an integer
+- `input()` and `print()`
+- Variables
+- Type conversion using `int()`
+- Conditional statements (`if-else`)
+- Comparison operators (`>=`)
+- Formatted strings (f-strings)
 
-if-else conditional statements
+## How to Run:
 
-f-strings for formatted output
+1. Install Python on your computer.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run the following command:
 
-How to Run:
+   `python python_age_voting_checker.py`
 
-Install Python.
+## What I Learned:
 
-Download or clone this repository.
-
-Open a terminal in the project folder.
-
-Run:
-
-python voting_checker.py
-
-What I Learned
-
-I practised taking user input, making decisions with conditions, and displaying personalised messages in Python.
+Through this project, I practised taking user input, using conditional logic, and displaying personalised output. This project is part of my journey to improve my Python programming skills.
