@@ -29,7 +29,7 @@ The Voting Eligibility Checker is a simple Python program that asks the user for
 3. Open a terminal in the project folder.
 4. Run the following command:
 
-   ` python_voting_eligibilty_checker.py`
+   ` python_age_voting_checker.py`
 
 ## What I Learned:
 
